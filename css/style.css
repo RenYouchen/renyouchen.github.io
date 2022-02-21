@@ -1,0 +1,23 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.navBar{
+  background: #555555;
+  width:100%;
+  font-size: large;
+  display: flex;
+}
+.navButton{
+  color: wheat;
+  padding: 10px;
+  width: 25%;
+}
+.navButton:hover {
+  background: burlywood;
+}
+.main{
+  background: grey;
+  width: 100%;
+  height: 75rem;
+}
