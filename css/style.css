@@ -11,13 +11,35 @@
 .navButton{
   color: wheat;
   padding: 10px;
-  width: 25%;
+  width: 10%;
+  text-decoration: none;
+  text-align: center;
 }
 .navButton:hover {
   background: burlywood;
 }
 .main{
-  background: grey;
+  background: #d2d2d2;
   width: 100%;
   height: 75rem;
+}
+h1{
+  text-align: center;
+  padding: 1rem;
+}
+h2{
+   border-left: 5px #312f27 solid;
+   margin:1rem ;
+   padding-left: 10px;
+}
+p{
+  font-size: 25px;
+}
+.Link{
+  text-decoration: none;
+  color: #0368ff;
+}
+.Link:hover{
+  border-bottom: 3px solid rgba(0, 0, 0, 0.45);
+  background: rgba(255, 121, 121, 0.68);
 }
