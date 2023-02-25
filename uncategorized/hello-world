@@ -151,7 +151,7 @@
         </svg>
     </a>
     <div class="toc-menus" id="toc-menus">
-        <div class="toc-title">文章目录</div>
+        <div class="toc-title">Article Directory</div>
         <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Quick-Start"><span class="toc-text">Quick Start</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Create-a-new-post"><span class="toc-text">Create a new post</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Run-server"><span class="toc-text">Run server</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Generate-static-files"><span class="toc-text">Generate static files</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Deploy-to-remote-sites"><span class="toc-text">Deploy to remote sites</span></a></li></ol></li></ol>
     </div>
 
@@ -175,7 +175,7 @@
 
     </div>
      
-    <div class="post-footer__meta"><p>更新于 2023-02-25</p></div> 
+    <div class="post-footer__meta"><p>updated at 2023-02-25</p></div> 
     <div class="post-entry__tags"></div> 
 </article>
 
@@ -189,7 +189,7 @@
                     </div>
                     <div>
                         <div class="nav__label">
-                            上一篇
+                            Previous Post
                         </div>
                         <div class="nav__title">
                             test
@@ -234,6 +234,14 @@
 
  
 
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PV9Q86VVYJ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-PV9Q86VVYJ');
+    </script>
  
 
  
